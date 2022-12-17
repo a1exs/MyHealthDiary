@@ -8,7 +8,7 @@
 PRODUCT_NAME = my_health_diary
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.myHealthDiary
+PRODUCT_BUNDLE_IDENTIFIER = com.a1exs.myHealthDiary
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.a1exs All rights reserved.
