@@ -95,7 +95,7 @@ BEGIN
             VALUE "InternalName", "my_health_diary" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.a1exs. All rights reserved." "\0"
             VALUE "OriginalFilename", "my_health_diary.exe" "\0"
-            VALUE "ProductName", "my_health_diary" "\0"
+            VALUE "ProductName", "My Health Diary" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
