@@ -43,6 +43,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_launcher_icons: ^0.11.0
+  flutter_native_splash: ^2.2.16
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -107,3 +108,21 @@ flutter_icons:
     generate: true
   macos:
     generate: true
+
+flutter_native_splash:
+  color: "#ffffff"
+  #background_image: "assets/background.png"
+  image: "images/splash.png"
+
+  color_dark: "#000000"
+  #background_image_dark: "assets/dark-background.png"
+  image_dark: images/splash-dark.png
+
+  android: true
+  ios: true
+  web: false
+
+  android_gravity: center
+  ios_content_mode: center
+  #web_image_mode: center
+  #fullscreen: true
