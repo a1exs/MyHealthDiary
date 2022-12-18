@@ -33,6 +33,13 @@ dependencies:
     sdk: flutter
   catcher: ^0.7.0
   path_provider: ^2.0.11
+  flex_color_scheme: ^6.1.1
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+  flutter_secure_storage: ^6.1.0
+  shared_preferences: ^2.0.15
+  devicelocale: ^0.5.5
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -57,6 +64,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  generate: true
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
@@ -126,3 +134,6 @@ flutter_native_splash:
   ios_content_mode: center
   #web_image_mode: center
   #fullscreen: true
+
+flutter_intl:
+    enabled: true
